@@ -25,7 +25,7 @@ SECRET_KEY = '4d1eirj5@87m^111*qj=+ebk5cogpf*t6%w%42xor*)^)u1owi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1, cs1998.ddns.net']
 
 
 # Application definition
